@@ -1,0 +1,1 @@
+It's a telegram bot that try to offer a more user friendly way to perform space repetition using data within RoamReasearch.
